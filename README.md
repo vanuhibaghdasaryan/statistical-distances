@@ -3,8 +3,8 @@
 Master’s research project (Yerevan State University, 2025) on **statistical distances and divergences** between probability distributions, including theory (definitions, properties, inequalities), applications, and numerical experiments.
 
 ## Contents
-- 📄 **Paper (PDF):** `paper/Statistical_Distances.pdf
-- 🧪 **Experiments (Notebook):** `experiments/Stat_dist.ipynb
+- 📄 **Paper (PDF):** paper/Statistical_Distances.pdf
+- 🧪 **Experiments (Notebook):** experiments/Stat_dist.ipynb
 
 ## Distances & Divergences Covered
 - **Kullback–Leibler (KL) divergence**
